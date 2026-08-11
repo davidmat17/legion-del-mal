@@ -22,6 +22,7 @@ Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si pat
 - Dormitorios para 12 personas
 - Plataforma de lanzamiento (orientada al espacio profundo)
 - cambios
+  -tambien hago cambios aca intencionales para simular conflictos
 
 ## Problemas actuales
 
