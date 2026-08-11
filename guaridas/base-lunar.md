@@ -21,6 +21,7 @@ Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si pat
 - Invernadero hidropónico (suministro de alimentos limitado)
 - Dormitorios para 12 personas
 - Plataforma de lanzamiento (orientada al espacio profundo)
+- cambios
 
 ## Problemas actuales
 
