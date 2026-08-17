@@ -6,6 +6,7 @@
 4. the joker
 5. harley quinn
 6. taxi
+7. duende verde
 
 # Notas
 
