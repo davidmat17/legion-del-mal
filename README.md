@@ -6,7 +6,7 @@
 ![Licencia](https://img.shields.io/github/license/davidmat17/legion-del-mal)
 
 
-# 🦹‍♂️ La Legión del Mal - Remoto y local
+# 🦹‍♂️ La Legión del Mal 
 
 
 
