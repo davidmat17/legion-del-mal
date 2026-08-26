@@ -7,3 +7,4 @@ Spiderman es un humano con habilidades de aracnido
 - duende verde
 - dr octopus
 - rhyno
+- venom
