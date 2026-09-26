@@ -1,25 +1,25 @@
+```yaml
 name: Comunicador de la legion
 
 on:
   push:
-    workflow_dispatch:
-      inputs: 
-        villano: 
-          description: "Que villano envia el mensaje"
-          required: true
-          type: choice
-          options: 
-            -lex luthor
-            -magneto
-            -joker
-            -Mystique
-            -Brainiac
+  workflow_dispatch:
+    inputs:
+      villano:
+        description: "Que villano envia el mensaje"
+        required: true
+        type: choice
+        options:
+          - lex luthor
+          - magneto
+          - joker
+          - Mystique
+          - Brainiac
 
 jobs:
-    transmitir-mensaje:
-      runs-on: ubuntu-latest
+  transmitir-mensaje:
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
-
-     
+```
