@@ -1,4 +1,5 @@
 name: Comunicador de la legion
+
 on:
   workflow_dispatch:
     inputs:
@@ -19,13 +20,15 @@ jobs:
 
     steps:
       - name: Instalar el transmisor de la legion
-        run: sudo apt-get install -y cosway
+        run: sudo apt-get install -y cowsay
+
       - name: Imprimir inputs
         run: |
           echo "======================"
           echo " Transmision interceptada"
-          echo "====================="
-          echo "De: ${{inputs.villano}}"
-          cowsay -f eyes "${{inputs.mensaje}}"
+          echo "======================"
+          echo "De: ${{ inputs.villano }}"
+          cowsay -f eyes "${{ inputs.villano }}"
           echo ""
-          echo "---- ${{inputs.villano}}"
+          echo "---- ${{ inputs.villano }}"
+
