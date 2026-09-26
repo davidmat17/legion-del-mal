@@ -1,5 +1,6 @@
 name: Acceso a la fortaleza prohibida
-on: push
+on:
+  workflow_dispatch:
 jobs: 
   acceso-a-la-base:
     runs-on: ubuntu-latest

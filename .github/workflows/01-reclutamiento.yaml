@@ -1,6 +1,6 @@
 name: Reclutamiento de Agente
 on: 
-    workflow_dispatch
+    workflow_dispatch:
 jobs: 
   reporte-de-reclutamiento:
     runs-on: ubuntu-latest
