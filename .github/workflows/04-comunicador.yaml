@@ -16,8 +16,8 @@ on:
             -Brainiac
 
 jobs:
-  build:
-    transmitir-mensaje: ubuntu-latest
+    transmitir-mensaje:
+      runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
